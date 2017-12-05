@@ -1,6 +1,6 @@
 
 # Adaptation of the demo code by the TensorFlow authors
-# Added Tensorboard functionality and tune parameters to the DL lab, excercise 3
+# Added Tensorboard functionality and tune parameters to the DL lab, exercise 3
 
 # Copyright 2015 The TensorFlow Authors. All Rights Reserved.
 #
